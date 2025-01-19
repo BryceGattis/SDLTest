@@ -1,0 +1,15 @@
+﻿# Jetbrains IDE files
+.idea/
+
+# Visual Studio
+*.vcxproj*
+*.sln
+
+# Cmake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+
+# Build folders
+x64/
+Debug/
